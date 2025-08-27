@@ -44,6 +44,5 @@ button {
 .logo {
   display: block;
   margin: 0 auto 10px auto;
-  width: 50px; /* adjust size as needed */
-  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3));
+  width: 50px;
 }
